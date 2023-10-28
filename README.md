@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 20.09.2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -58,8 +58,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![](WEB01-1.png)
-![](WEB01-2.png)
+![WEB_EX01](https://github.com/Shakthikumar22009242/simplewebserver/assets/120207509/e58d21dc-1502-4916-8f2c-c96319786bf2)
+
 
 
 ## RESULT:
